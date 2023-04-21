@@ -1,10 +1,14 @@
-import React from 'react'
-import HookCounterThree from './HookCounterThree'
+import React from "react";
+import CounterExample from "./CounterExample";
+// import App1 from "../App1";
+import Parent from "./Parent";
 
 const App = () => {
   return (
-    <><HookCounterThree/></>
-  )
-}
+    <>
+      <Parent />
+    </>
+  );
+};
 
-export default App
+export default App;
