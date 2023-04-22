@@ -1,0 +1,17 @@
+.nav{
+    height:70px;
+    width:100%;
+    margin-top: 50px;
+    padding: 50px 0px 0px 0px;
+    background-color:dodgerblue;
+    text-align: center ;
+    
+}
+.nav .menu{
+    padding: 12px ;
+    text-align: center;
+
+}
+.nav .menu:hover{
+    color:black
+}

@@ -1,0 +1,10 @@
+.body{
+    background-color: grey;
+    text-align: center;
+    margin: 0px 250px;
+    height:200px
+}
+.body .a{
+    text-align: center;
+    padding:7% 0px 0px 0px;                          
+}
