@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from './Header'
-import './pages.css'
+import Header from './Header.js'
+import "./pages.css"
 
 const ClothesPage = () => {
   return (
